@@ -1,1 +1,1 @@
-# Simple landing page using HTML5 and CSS3
+# Simple responsive landing page using HTML5 and CSS3
